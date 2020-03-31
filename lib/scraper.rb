@@ -16,7 +16,7 @@ class Scraper
     end
   end
   
-  binding.pry
+ 
   
  # def get_courses
     
